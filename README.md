@@ -40,7 +40,6 @@ The Data Analytics Dashboard for Global Super Store transforms raw data into act
 
 2. **Cohort Analysis Reference:** The cohort analysis technique used in this project was referenced from a YouTube video [link](https://www.youtube.com/watch?v=vbg4Je1tuis). The video provided a step-by-step guide on conducting cohort analysis using Power BI. It served as a helpful resource in understanding the concept of cohort analysis and how to apply it to the data to gain valuable insights into customer retention and behavior over time.
 
-The adaptation and incorporation of these resources significantly contributed to the development and visualization of the dashboard. We acknowledge and appreciate the work of Shehab and the creator of the YouTube video for providing valuable tools and insights that enhanced the quality and effectiveness of this project.
 
 
 
