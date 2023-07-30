@@ -34,6 +34,10 @@ The Data Analytics Dashboard for Global Super Store transforms raw data into act
 
 
 
+[Click here to download the PDF file](https://drive.google.com/file/d/1448qag6ihSJIjOkLOFYd3UCcf2ImvOce/view?usp=sharing)
+
+
+
 **References:**
 
 1. **Dashboard Template:** The design and layout of this dashboard were adapted from a template created by Shehab. The template, titled "Superstore Sales," can be found on the Microsoft Fabric Community Themes Gallery [link](https://community.fabric.microsoft.com/t5/Themes-Gallery/Superstore-Sales/td-p/3231442). While not used in its entirety, the template served as a valuable source of inspiration and guidance for replicating and customizing the design to suit the specific needs of the project.
